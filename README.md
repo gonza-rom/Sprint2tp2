@@ -17,6 +17,4 @@ En este repositorio, se incluye una aplicación en Node.js que permite gestionar
 - **Node.js**: Entorno de ejecución de JavaScript utilizado para el backend.
 - **Mongoose**: ODM (Object Data Modeling) para MongoDB, utilizado para manejar la base de datos.
 
-## Autor:
-
 **Gonzalo Romero**
